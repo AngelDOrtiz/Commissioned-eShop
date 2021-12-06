@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    overflow: hidden;
+}
+
+.top {
+    display: flex;
+    background-image: url("https://cdn.discordapp.com/attachments/804704049626349579/917534924699996180/REDLIGHT.png");
+    background-size: 100%;
+    background-position: center;
+    height: 50%;
+    width: 100%;
+}
