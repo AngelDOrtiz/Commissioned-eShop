@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    height: 6vh;
+    background-color: black;
+    color: white;
+}
+
+.left {
+    padding-left: 20px;;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.logo {
+
+    height: 70px;
+    width: 70px;
+    background-image: url("https://cdn.discordapp.com/attachments/804704049626349579/918253832725737522/Untitled_Artwork.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.right {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-evenly;
+    padding-left: 200px;
+    font-size: 125%;
+}
+
+a:hover {
+    cursor: pointer;
+    color: red;
+    text-shadow: 25px 10px rgb(255, 255, 255);
+    
+}

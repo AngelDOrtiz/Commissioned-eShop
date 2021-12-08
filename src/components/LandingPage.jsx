@@ -9,7 +9,7 @@ export default class LandingPage extends Component {
 
                 </div>
                 <div className={styles.bottom}>
-
+                    <p>New Releases</p>
                 </div>
             </div>
         )
