@@ -12,8 +12,8 @@ export default class Header extends Component {
                   <a>  
                     <div className={styles.logo}> </div>
                   </a>
-                  
                 </div>
+                  
 
                 <div className={styles.right}>
 
